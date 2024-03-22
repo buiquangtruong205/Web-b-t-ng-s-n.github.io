@@ -1,0 +1,103 @@
+*{
+    padding: 0px;
+    margin:  0px;
+}
+.nền{
+    display: flex;
+    margin-left: 50px;
+}
+.nền2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+}
+.nền2 img{
+    width: 120px;
+    height: 120px;
+}
+.nền3{
+    width: 72%;
+    height: 100px;
+    background-color: rgb(253, 253, 252);
+    color:black;
+}
+.nền31 {
+    margin-top: 10px;
+    display: flex;
+}
+.nền31 a{
+    text-decoration: none;
+}
+.nền311{
+    border: 10px;
+}
+.nền311 input{
+    width: 200px;
+    height: 25px;
+    margin-left: 10px;
+}
+.fa-magnifying-glass{
+    width: auto;
+    height: 25px;
+}
+
+.nền312{
+    display: flex;
+}
+.nền312 p{
+    color: gold;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.nền313 button{
+    width: 90px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 1px solid rgb(193, 184, 184);
+    border-radius: 10px;
+}
+.nền313 p{
+    color: gray;
+}
+.nền314 button{
+    width: 90px;
+    height: 30px;
+    background-color: goldenrod;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.nền314 p{
+    color: white;
+}
+.fa-phone{
+    margin-top: 5px;
+    width: auto;
+    height: 25px;
+    margin-left: 300px;
+}
+.nền32{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.nền32 p{
+    margin-left: 20px;
+}
+.nền32 a{
+    text-decoration: none;
+}
+
+.nền32 :hover{
+    text-decoration: underline;
+}
+
+
+.nền4{
+    width: 11%;
+    height: 100px;
+    background-color: aqua;
+}
+main{
+    padding:20px;
+}
